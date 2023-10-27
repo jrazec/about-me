@@ -1,4 +1,4 @@
-👋 Hello, world! I'm a student who's deeply immersed in the fascinating realm of coding. I'm always eager to learn and broaden my horizons.
+👋 Hi! I'm Razec,a BSIT student who's deeply immersed in the fascinating realm of coding. I'm always eager to learn and broaden my horizons.
 
 ## 🛠 Skills
 Here are some skills I acquired in the past years:
